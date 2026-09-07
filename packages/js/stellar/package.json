@@ -48,7 +48,7 @@
   "devDependencies": {
     "@playwright/test": "1.62.1",
     "@types/node": "^22.0.0",
-    "esbuild": "^0.28.1",
+    "esbuild": "^0.28.2",
     "typescript": "*",
     "vitest": "*",
     "@vitest/coverage-v8": "*"
